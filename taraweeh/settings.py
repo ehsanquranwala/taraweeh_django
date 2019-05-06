@@ -25,7 +25,7 @@ SECRET_KEY = '64hnlxn6@dp_zk4f*4-v69!_2b=cgacu%pm++8(kzav)-%i(pk'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [taraweeh.org]
 
 
 # Application definition
